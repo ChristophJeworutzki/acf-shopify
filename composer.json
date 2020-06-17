@@ -1,0 +1,13 @@
+{
+  "name": "christoph-jeworutzki/acf-shopify",
+  "type": "wordpress-plugin",
+  "description": "Shopify product field for Advanced Custom Fields",
+  "license": "",
+  "authors": [
+    {
+      "name": "Christoph Jeworutzki",
+      "role": "Developer",
+      "homepage": "https://github.com/ChristophJeworutzki"
+    }
+  ]
+}
