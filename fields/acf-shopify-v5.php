@@ -177,7 +177,7 @@ class acf_shopify extends acf_field
         $version = $this->settings['version'];
 
         // register & include the shopify js-buy-sdk
-        wp_register_script('js-sdk', "http://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js");
+        wp_register_script('js-sdk', "https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js");
         wp_enqueue_script('js-sdk');
         
         // register & include select2
